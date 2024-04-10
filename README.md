@@ -12,7 +12,7 @@ Ingeniero de Sistemas apasionado por los desafíos y retos tecnológicos, altame
 soluciones tecnológicas, abarcando la conceptualización hasta la entrega final del proyecto, con un enfoque especial en el desarrollo de software y la optimización de sistemas.
 
 #
-**Datos Curidosos ❕**
+**Datos Curiosos ❕**
 
 - 💻 En la actualidad, me encuentro enfocado en la búsqueda de oportunidades laborales en el campo de Tecnologías de la Información, específicamente como desarrollador u en áreas afines.
 
