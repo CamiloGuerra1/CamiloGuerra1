@@ -14,7 +14,7 @@ soluciones tecnológicas, abarcando la conceptualización hasta la entrega final
 #
 **Datos Curiosos ❕**
 
-- 💻 En la actualidad, me encuentro enfocado en la búsqueda de oportunidades laborales en el campo de Tecnologías de la Información, específicamente como desarrollador u en áreas afines.
+- 💻 En la actualidad, me encuentro enfocado en la búsqueda de oportunidades laborales en el campo de Tecnologías de la Información, específicamente como desarrollador o áreas afines.
 
 - 🌱 En este momento, me encuentro inmerso en el aprendizaje de Desarrollo Back-End, con énfasis en Java tanto en su nivel básico como avanzado, así como en el dominio de frameworks como Spring Boot. Además, estoy dedicando tiempo al desarrollo Front-End, enfocándome en tecnologías como HTML y CSS.
 
