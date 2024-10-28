@@ -1,11 +1,7 @@
 <h1 align="center">Hola 👋, soy Camilo Guerra</h1>
 <h3 align="center">Ingeniero de Sistemas apasionado y enfocado por el desarrollo de software y la adquisición de nuevos conocimientos 💻</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=camiloguerra1&label=Profile%20views&color=0e75b6&style=flat" alt="camiloguerra1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=camiloguerra1" alt="camiloguerra1" /></a> </p>
-
-# 
+#
+#
 **📎 Sobre mí**
 
 Ingeniero de Sistemas apasionado por los desafíos y retos tecnológicos, altamente motivado y orientado a resultados, dispuesto a generar el diseño, desarrollo e implementación de
