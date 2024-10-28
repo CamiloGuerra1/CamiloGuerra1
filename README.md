@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Camilo Guerra</h1>
 <h3 align="center">Ingeniero de Sistemas apasionado y enfocado por el desarrollo de software y la adquisición de nuevos conocimientos 💻</h3>
-#
+
 #
 **📎 Sobre mí**
 
